@@ -45,7 +45,7 @@ This project focuses on image recognition using both Convolutional Neural Networ
 - **Pretrained ViT achieved 92.44% accuracy**, demonstrating that transfer learning can be beneficial in transformer-based image recognition.
 - **ResNet50 and EfficientNetB0 performed poorly**, indicating that some CNN architectures might not be well-suited for this dataset.
 
-![CNN vs Transformers](https://raw.githubusercontent.com/USERNAME/REPOSITORY/BRANCH/PATH_TO_IMAGE.png)
+![CNN vs Transformers](https://github.com/Sameh20200218AI/CNN_vs_Transformers_For_Image_Recognition/blob/main/CNN%20vs%20Transformers.png)
 
 This study highlights the strengths of **CNNs and Vision Transformers**, showcasing how Transformers are emerging as powerful alternatives for image recognition tasks.
 
